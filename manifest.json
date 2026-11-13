@@ -1,0 +1,25 @@
+{
+  "name": "Jarvis ultra",
+  "short_name": "Jarvis",
+  "start_url": "/?lfhs=2",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "https://www.gstatic.com/lamda/images/gemini_sparkle_4g_512_lt_f94943af3be039176192d.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "com.google.android.apps.bard",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.bard"
+    }
+  ],
+  "prefer_related_applications": true,
+  "theme_color": "#000000",
+  "background_color": "rgb(0, 0, 0)",
+  "id": "Jarvis",
+  "description": "Jarvis ak smart ai assistant"
+}
